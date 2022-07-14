@@ -10,5 +10,13 @@
 const urls = [
 	'https://hhming.moe',
 	'https://github.com/hms5232',
-	'https://gitlab.com/hms5232'
+	'https://gitlab.com/hms5232',
+	'https://streamable.com/veh23b',
+	'https://streamable.com/8jfusa',
+	'https://streamable.com/p759q4',
+	'https://streamable.com/t5wt4f',
+	'https://streamable.com/vts6nx',
+	'https://streamable.com/yw7vbq',
+	'https://streamable.com/2vi131',
+	'https://streamable.com/aj9eeq'
 ];
