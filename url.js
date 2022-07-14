@@ -11,12 +11,12 @@ const urls = [
 	'https://hhming.moe',
 	'https://github.com/hms5232',
 	'https://gitlab.com/hms5232',
-	'https://streamable.com/veh23b',
-	'https://streamable.com/8jfusa',
-	'https://streamable.com/p759q4',
-	'https://streamable.com/t5wt4f',
-	'https://streamable.com/vts6nx',
-	'https://streamable.com/yw7vbq',
-	'https://streamable.com/2vi131',
-	'https://streamable.com/aj9eeq'
+	'https://docs.google.com/forms/d/e/1FAIpQLSfSMC1qwfxAEyYyrfvvPvMj02cEE8XbIVSC22hXOZ7bM6O-hw/viewform?usp=sf_link',
+	'https://docs.google.com/forms/d/e/1FAIpQLSdQ50TD0sxIQnbwZHn1j2CxBx4AAc3pQ7E3F-kFg-R7YXwEbA/viewform?usp=sf_link',
+	'https://docs.google.com/forms/d/e/1FAIpQLSe3EXAghEXhuAP4Yv4uxTyHkqGDTEs9t8ioCUTEs0L34Fc3pw/viewform?usp=sf_link',
+	'https://docs.google.com/forms/d/e/1FAIpQLSegrl8xDUJztiRgqlZRRyinZtBw8eAjFDadqIcY0Ei2v2n04g/viewform?usp=sf_link',
+	'https://docs.google.com/forms/d/e/1FAIpQLSee5BEG0qdpSspJR0_gs9MXLznJtJf8FZB8sySYQFF2PXV-Jg/viewform?usp=sf_link',
+	'https://docs.google.com/forms/d/e/1FAIpQLSdOOwyCuSqFDkQZSQ1xPtndHF9bT8_8pP9DFUMNpD_Yj-kK_A/viewform?usp=sf_link',
+	'https://docs.google.com/forms/d/e/1FAIpQLSes84iLz_kMK7Of-FWYIDO28eRslBhP3n1a3cKgdyAc_AoZGg/viewform?usp=sf_link',
+	'https://docs.google.com/forms/d/e/1FAIpQLScY0AH9-rygqoAw1SNY3C1UbJCzNkT-ZWGp_S4jKmBwivfE4A/viewform?usp=sf_link'
 ];
