@@ -15,5 +15,4 @@ const urls = [
 	'https://docs.google.com/forms/d/e/1FAIpQLSee5BEG0qdpSspJR0_gs9MXLznJtJf8FZB8sySYQFF2PXV-Jg/viewform?usp=sf_link',
 	'https://docs.google.com/forms/d/e/1FAIpQLSdOOwyCuSqFDkQZSQ1xPtndHF9bT8_8pP9DFUMNpD_Yj-kK_A/viewform?usp=sf_link',
 	'https://docs.google.com/forms/d/e/1FAIpQLSes84iLz_kMK7Of-FWYIDO28eRslBhP3n1a3cKgdyAc_AoZGg/viewform?usp=sf_link',
-	'https://docs.google.com/forms/d/e/1FAIpQLScY0AH9-rygqoAw1SNY3C1UbJCzNkT-ZWGp_S4jKmBwivfE4A/viewform?usp=sf_link'
-];
+	'https://docs.google.com/forms/d/e/1FAIpQLScY0AH9-rygqoAw1SNY3C1UbJCzNkT-ZWGp_S4jKmBwivfE4A/viewform?usp=sf_link'];
