@@ -9,8 +9,6 @@
 
 const urls = [
 	'https://docs.google.com/forms/d/e/1FAIpQLSfSMC1qwfxAEyYyrfvvPvMj02cEE8XbIVSC22hXOZ7bM6O-hw/viewform?usp=sf_link',
-	'https://docs.google.com/forms/d/e/1FAIpQLSdQ50TD0sxIQnbwZHn1j2CxBx4AAc3pQ7E3F-kFg-R7YXwEbA/viewform?usp=sf_link',
-	'https://docs.google.com/forms/d/e/1FAIpQLSegrl8xDUJztiRgqlZRRyinZtBw8eAjFDadqIcY0Ei2v2n04g/viewform?usp=sf_link',
 	'https://docs.google.com/forms/d/e/1FAIpQLSee5BEG0qdpSspJR0_gs9MXLznJtJf8FZB8sySYQFF2PXV-Jg/viewform?usp=sf_link',
 	'https://docs.google.com/forms/d/e/1FAIpQLSdOOwyCuSqFDkQZSQ1xPtndHF9bT8_8pP9DFUMNpD_Yj-kK_A/viewform?usp=sf_link',
 	'https://docs.google.com/forms/d/e/1FAIpQLSes84iLz_kMK7Of-FWYIDO28eRslBhP3n1a3cKgdyAc_AoZGg/viewform?usp=sf_link',
