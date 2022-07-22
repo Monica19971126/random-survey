@@ -7,5 +7,4 @@
  */
 
 
-const urls = [
-	'https://docs.google.com/forms/d/e/1FAIpQLSes84iLz_kMK7Of-FWYIDO28eRslBhP3n1a3cKgdyAc_AoZGg/viewform?usp=sf_link'];
+const urls = [];
